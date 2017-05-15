@@ -1,0 +1,22 @@
+How do we synchronize a static method to prevent data corruption in concurrent update ?
+How will you introduce multi-tasking in your java application ?
+Design a program to search files inside a directory using multi-threadig?
+How will you implement a LRU timed cache in Java ?
+There is a folder containing multiple SQL files. Each file's name contain a sequence number which determines the execution order of that particular SQL script file. Design an API that will take such folder and execute the SQL in correct order.
+Difference between wait() and sleep() method ?
+What is a deadlock situation ? How will you handle deadlock in development and production environment ?
+What is mechanism for inter-thread communication ?
+Would adding multi-threading to sorting algorithm improve its performance ?
+In what practical scenario's multi-threading actually improves the performance of Java application ?
+Do we need to synchronize getter and setter both to prevent concurrency related issues on a collection ?
+Explain the key classes in java.util.concurrent package ?
+What is purpose of ConcurrentHashMap ?
+What is purpose of a Future ? How will you use it ?
+How will you create your own custom Thread Pool ?
+What is a BlockingQueue ?
+There is three file contains flight data. File data has in csv format.
+1)Write a standalone program to search flight detail from all files depend on criteria
+2)Criteria would be departure location,arrival location, flight date.
+3)Program should follow\Oops principle. And right unit test case also.
+4)Result should be in Ascending or descending order.
+5)Data separated with pipe | .
